@@ -12,6 +12,11 @@
 ThinkPath AI revolutionizes how you interact with language models by introducing **guided thinking paths** - letting you control exactly how deep the AI goes into any topic, step by step.
 
 ![ThinkPath AI Demo](demo.gif)
+<video width="100%" controls>
+  <source src="github thinkpath video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ## 🎯 **The Problem We Solve**
 
