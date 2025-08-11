@@ -75,7 +75,7 @@ ThinkPath AI revolutionizes how you interact with language models by introducing
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/thinkpath-ai.git
+   git clone https://github.com/Ahmed-G-ElTaher/ThinkPath-Chatbot.git
    cd thinkpath-ai
    ```
 
