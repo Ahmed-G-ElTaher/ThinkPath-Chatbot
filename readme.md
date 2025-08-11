@@ -245,12 +245,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **AI Community**: For advancing open-source language models
 - **Strategic Thinking**: Inspired by consulting methodologies and structured problem-solving
 
-## 📞 **Support & Community**
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/thinkpath-ai/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/thinkpath-ai/discussions)
-- **Twitter**: [@thinkpathai](https://twitter.com/thinkpathai)
-- **Discord**: [ThinkPath AI Community](https://discord.gg/thinkpathai)
 
 ---
 
